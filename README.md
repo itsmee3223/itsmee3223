@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramanfa Ajisaka Asyraf
+- 👋 Hi, I’m Ramanda Ajisaka Asyraf
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Programming, Robotics, etc About Technology
 
